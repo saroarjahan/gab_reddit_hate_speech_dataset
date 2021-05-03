@@ -1,1 +1,1 @@
-# gab_reddit_hate_speech_dataset
+# Gab and Reddit hate speech Dataset
