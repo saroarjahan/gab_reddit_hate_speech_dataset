@@ -1,10 +1,10 @@
 # Gab and Reddit hate speech Dataset
 
-This repository contans gab and reddit dataset originated from: https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech
+This repository contains Gab and Reddit dataset originated from: https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech
 
-Here I have only sorted those dataset file with annotation. 0 = not hate, 1 = hate
+Here I have only sorted these datasets with annotation. 0 = not hate, 1 = hate
 
-if you use this dataset please cite their original work.
+If you use this Dataset, please cite their original work.
 
 @article{qian2019benchmark,
   title={A benchmark dataset for learning to intervene in online hate speech},
